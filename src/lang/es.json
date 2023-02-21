@@ -1,0 +1,14 @@
+{
+  "loading": "Cargando...",
+  "error": "Ha ocurrido un error",
+  "header.changePokemon": "Cambiar pokemon",
+  "tableMoves.loadingMoves": "Cargando los movimientos...",
+  "tableMoves.pokemonMoves": "Movimientos del Pokemon",
+  "tableType.pokemonSametype": "Pokemones del mismo tipo",
+  "tableType.pokemon": "Pokemon",
+  "tableMoves.nameMove": "Nombre",
+  "tableMoves.accuracy": "Efectividad",
+  "tableMoves.power": "Daño",
+  "tableMoves.costo": "Costo",
+  "tableFooter.pageOf": "Pag. {currentPage} de {of}"
+}
